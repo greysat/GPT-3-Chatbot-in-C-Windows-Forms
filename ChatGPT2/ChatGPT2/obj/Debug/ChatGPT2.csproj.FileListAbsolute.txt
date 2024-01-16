@@ -1,0 +1,13 @@
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\obj\Debug\ChatGPT2.csproj.AssemblyReference.cache
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\obj\Debug\Form1.resources
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\obj\Debug\ChatGPT2.Properties.Resources.resources
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\obj\Debug\ChatGPT2.csproj.GenerateResource.cache
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\obj\Debug\ChatGPT2.csproj.CoreCompileInputs.cache
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\bin\Debug\ChatGPT2.exe.config
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\bin\Debug\ChatGPT2.exe
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\bin\Debug\ChatGPT2.pdb
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\obj\Debug\ChatGPT2.csproj.CopyComplete
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\obj\Debug\ChatGPT2.exe
+C:\Users\Hinds-pc\Desktop\MesProjets\ChatGPT2\ChatGPT2\obj\Debug\ChatGPT2.pdb
